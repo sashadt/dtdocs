@@ -1,0 +1,141 @@
+Welcome to the DataTorrent RTS!
+================================================================================
+
+This collection of interactive tutorials will introduce you to the DataTorrent RTS platform.
+
+### Getting Started with DataTorrent Applications
+
+To help you get started with creating DataTorrent applications, check out our [Application Development Tutorial](https://www.datatorrent.com/docs/guides/ApplicationDevelopmentTutorial.html)
+
+
+
+### Explore the DataTorrent Platform
+
+Use the navigation menu on the left, or interactive architecture diagram below to find out more about the various platform features.
+
+
+<!--------------------------------- Architecture Diagram Styles ------------------------------------------------->
+<style>
+  .diagram-block:hover {
+    text-decoration: none;
+    opacity: 0.8;
+  }
+</style>
+
+<!--------------------------------- Architecture Diagram Content ------------------------------------------------->
+<svg version="1.1" viewBox="0.0 0.0 722.7244094488188 263.51443569553805" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <style type="text/css" >
+    <![CDATA[
+
+      .diagram-block:hover {
+         opacity: 0.8;
+      }
+
+    ]]>
+  </style>
+
+  <a xlink:href="https://www.datatorrent.com/docs/guides/ConsoleGuide.html" class="diagram-block">
+    <rect x="0" y="0" height="250" width="38" rx="6" ry="6" style="fill: #0890d1"/>
+    <text x="23" y="214" style="fill: #fff; font-size: 12px; letter-spacing: 1.05;" transform="rotate(270,23,214)">
+      Management and Monitoring
+    </text>
+  </a>
+
+  <a xlink:href="ingestion.md" class="diagram-block">
+    <rect x="47" y="0" height="38" width="74" rx="6" ry="6" style="fill: #3aa895"/>
+    <text x="64" y="22" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Ingest
+    </text>
+  </a>
+    
+  <circle cx="130" cy="18" r="7" style="stroke: #3aa895; stroke-width: 1.5; fill:none"/>
+  <line x1="125"  y1="18" x2="135" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+  <line x1="129"  y1="15" x2="135" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+  <line x1="129"  y1="21" x2="135" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+
+  <a xlink:href="sales_demo.md" class="diagram-block">
+    <rect x="139" y="0" height="38" width="185" rx="6" ry="6" style="fill: #3aa895"/>
+    <text x="152" y="22" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Transform and Normalize
+    </text>
+  </a>
+
+  <circle cx="333" cy="18" r="7" style="stroke: #3aa895; stroke-width: 1.5; fill:none"/>
+  <line x1="328"  y1="18" x2="338" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+  <line x1="332"  y1="15" x2="338" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+  <line x1="332"  y1="21" x2="338" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+
+  <a xlink:href="sales_demo.md" class="diagram-block">
+    <rect x="342" y="0" height="38" width="145" rx="6" ry="6" style="fill: #3aa895"/>
+    <text x="352" y="22" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Analyze and Predict
+    </text>
+  </a>
+
+  <circle cx="496" cy="18" r="7" style="stroke: #3aa895; stroke-width: 1.5; fill:none"/>
+  <line x1="491"  y1="18" x2="501" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+  <line x1="495"  y1="15" x2="501" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+  <line x1="495"  y1="21" x2="501" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+
+  <a xlink:href="sales_demo.md" class="diagram-block">
+    <rect x="505" y="0" height="38" width="100" rx="6" ry="6" style="fill: #3aa895"/>
+    <text x="515" y="22" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Alert and Act
+    </text>
+  </a>
+
+  <circle cx="614" cy="18" r="7" style="stroke: #3aa895; stroke-width: 1.5; fill:none"/>
+  <line x1="609"  y1="18" x2="619" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+  <line x1="613"  y1="15" x2="619" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+  <line x1="613"  y1="21" x2="619" y2="18" style="stroke: #3aa895; stroke-width: 1.5"/>
+
+  <a xlink:href="ingestion.md" class="diagram-block">
+    <rect x="623" y="0" height="38" width="86" rx="6" ry="6" style="fill: #3aa895"/>
+    <text x="635" y="22" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Distribute
+    </text>
+  </a>
+
+
+  <a xlink:href="app_builder.md" class="diagram-block">
+    <rect x="47" y="44" height="38" width="325" rx="6" ry="6" style="fill: #0890d1"/>
+    <text x="114" y="66" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Graphical Application Builder
+    </text>
+  </a>
+
+  <a xlink:href="visualize.md" class="diagram-block">
+    <rect x="384" y="44" height="38" width="325" rx="6" ry="6" style="fill: #0890d1"/>
+    <text x="460" y="66" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Real-Time Data Visualization
+    </text>
+  </a>
+
+  <a xlink:href="malhar.md" class="diagram-block">
+    <rect x="47" y="88" height="38" width="662" rx="6" ry="6" style="fill: #0890d1"/>
+    <text x="160" y="110" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Malhar - Open Source Java Operator Library ( Apache 2.0 License )
+    </text>
+  </a>
+
+  <a xlink:href="apex.md" class="diagram-block">
+    <rect x="47" y="132" height="74" width="662" rx="6" ry="6" style="fill: #0890d1"/>
+    <text x="170" y="160" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Apex - Open Source, Scalable, High-Performance, Fault-Tolerant
+    </text>
+    <text x="190" y="180" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      In-Memory Processing Platform ( Apache 2.0 License )
+    </text>
+  </a>
+
+  <a xlink:href="https://www.datatorrent.com/product/supported-hadoop-distributions/" class="diagram-block">
+    <rect x="47" y="212" height="38" width="662" rx="6" ry="6" style="fill: #3aa895"/>
+    <text x="200" y="234" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
+      Any Hadoop 2.0 Cluster ( Physical / Virtual / Cloud )
+    </text>
+  </a>
+
+</svg>
+
+
