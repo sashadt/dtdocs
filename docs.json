@@ -1,0 +1,36 @@
+{
+  "docs": [
+    {
+      "label": "Welcome",
+      "file": "welcome.md"
+    },
+    {
+      "label": "Transform, Analyze, Alert",
+      "file": "sales_demo.md"
+    },
+    {
+      "label": "Unified Batch & Streaming Ingest",
+      "file": "ingestion.md"
+    },
+    {
+      "label": "Application Assembly",
+      "file": "app_builder.md"
+    },
+    {
+      "label": "Data Visualization",
+      "file": "visualize.md"
+    },
+    {
+      "label": "Malhar Library",
+      "file": "malhar.md"
+    },
+    {
+      "label": "Apex Engine",
+      "file": "apex.md"
+    },
+    {
+      "label": "Additional Documentation",
+      "file": "additional_docs.md"
+    }
+  ]
+}
