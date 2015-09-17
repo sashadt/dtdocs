@@ -22,4 +22,5 @@ Use the navigation menu on the left, or interactive architecture diagram below t
   }
 </style>
 
+
 ![Architecture Diagram](images/architecture.svg)
