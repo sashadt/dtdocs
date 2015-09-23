@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the DataTorrent RTS!\n\n\nThis collection of interactive tutorials will introduce you to the DataTorrent RTS platform.\n\n\nGetting Started with DataTorrent Applications\n\n\nTo help you get started with creating DataTorrent applications, check out our \nApplication Development Tutorial\n\n\nExplore the DataTorrent Platform\n\n\nUse the navigation menu on the left, or interactive architecture diagram below to find out more about the various platform features.\n\n\n\n\n\n\n  .diagram-block:hover {\n    text-decoration: none;\n    opacity: 0.8;\n  }", 
+            "text": "Welcome to the DataTorrent RTS!\n\n\nThis collection of tutorials will introduce you to the DataTorrent RTS platform.\n\n\nGetting Started with DataTorrent Applications\n\n\nTo help you get started with creating DataTorrent applications, check out our \nApplication Development Tutorial\n\n\nExplore the DataTorrent Platform\n\n\nUse the navigation menu on the left, or interactive architecture diagram below to find out more about the various platform features.\n\n\nLearn \u21d2 Demos \u21d2 Write Apps\n\n\n\n\n\n\n\n\n\n  .diagram-block:hover {\n    text-decoration: none;\n    opacity: 0.8;\n  }", 
             "title": "DataTorrent RTS"
         }, 
         {
             "location": "/#welcome-to-the-datatorrent-rts", 
-            "text": "This collection of interactive tutorials will introduce you to the DataTorrent RTS platform.  Getting Started with DataTorrent Applications  To help you get started with creating DataTorrent applications, check out our  Application Development Tutorial  Explore the DataTorrent Platform  Use the navigation menu on the left, or interactive architecture diagram below to find out more about the various platform features.   \n  .diagram-block:hover {\n    text-decoration: none;\n    opacity: 0.8;\n  }", 
+            "text": "This collection of tutorials will introduce you to the DataTorrent RTS platform.  Getting Started with DataTorrent Applications  To help you get started with creating DataTorrent applications, check out our  Application Development Tutorial  Explore the DataTorrent Platform  Use the navigation menu on the left, or interactive architecture diagram below to find out more about the various platform features.  Learn \u21d2 Demos \u21d2 Write Apps    \n  .diagram-block:hover {\n    text-decoration: none;\n    opacity: 0.8;\n  }", 
             "title": "Welcome to the DataTorrent RTS!"
         }, 
         {
@@ -284,6 +284,16 @@
             "location": "/sales_demo/#visualize-data", 
             "text": "DataTorrent includes powerful data visualization tools, which allow you to visualize streaming data from multiple sources in real time.  For additional details see  Data Visualization  tutorial.  After application is started, a  visualize  button, available in the  Application Overview  section, can be used to quickly generate a new dashboard for the Sales Dimensions application.   Once dashboard is created, additional widgets can be added to display various dimensions and combinations of the sales data.  Below is an example of multiple sales combinations displayed in real time.", 
             "title": "Visualize Data"
+        }, 
+        {
+            "location": "/video_demos/", 
+            "text": "Video Demos\n\n\nDataTorrent RTS Elastic Scalability Demo\n\n\n\n\n\nDataTorrent RTS Dimensional Computing Demo\n\n\n\n\n\nDataTorrent RTS Application Builder Demo\n\n\n\n\n\nDataTorrent RTS Fault Tolerance Demo", 
+            "title": "Video Demos"
+        }, 
+        {
+            "location": "/video_demos/#video-demos", 
+            "text": "DataTorrent RTS Elastic Scalability Demo   DataTorrent RTS Dimensional Computing Demo   DataTorrent RTS Application Builder Demo   DataTorrent RTS Fault Tolerance Demo", 
+            "title": "Video Demos"
         }, 
         {
             "location": "/additional_docs/", 
