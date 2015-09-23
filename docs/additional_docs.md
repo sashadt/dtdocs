@@ -5,26 +5,20 @@ Additional Documentation
 
 For more DataTorrent documentation visit
 
-* Featured Resources: https://www.datatorrent.com/resources/
-* Architecture Overview: https://www.datatorrent.com/product/architecture-how-it-works/
-* Release Documentation and Guides : https://www.datatorrent.com/docs/
+* [Featured Resources](https://www.datatorrent.com/resources/)
+* [Product Features](https://www.datatorrent.com/product/datatorrent-rts/)
+* [Architecture Overview](https://www.datatorrent.com/product/architecture/)
+* [Documentation and Guides](https://www.datatorrent.com/product-documentation/)
 
 For webinars and videos check out
 
-* Webinars: https://www.datatorrent.com/webinar/
-* Solution Demos: https://www.datatorrent.com/solution-demos/
+* [Webinars](https://www.datatorrent.com/webinar/)
+* [Solution Demos](https://www.datatorrent.com/solution-demos/)
 
-### Apex
+### Apache Apex
 
-To find out more about Apex visit
+To find out more about Apache Apex visit
 
-* Overview and Comparison: https://www.datatorrent.com/project-apex/
-* Apex GitHub Page: https://github.com/DataTorrent/Apex
-
-### Malhar
-
-To find out more about Malhar visit
-
-* Malhar User Group: https://groups.google.com/forum/#!forum/malhar-users
-* Malhar Email: <a href="mailto:malhar-users@googlegroups.com">malhar-users@googlegroups.com</a>
-* Malhar GitHub Page: https://github.com/DataTorrent/Malhar
+* Apache Apex (incubating): [http://apex.incubator.apache.org/](http://apex.incubator.apache.org/)
+* Apex Mailing List: <a href="mailto:dev@apex.incubator.apache.org">dev@apex.incubator.apache.org</a>
+* [Apex Overview and Comparison](https://www.datatorrent.com/project-apex/)
