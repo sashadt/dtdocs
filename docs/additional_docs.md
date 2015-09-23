@@ -6,7 +6,6 @@ Additional Documentation
 For more DataTorrent documentation visit
 
 * Featured Resources: https://www.datatorrent.com/resources/
-* Developer Resources: https://www.datatorrent.com/developer-resources/
 * Architecture Overview: https://www.datatorrent.com/product/architecture-how-it-works/
 * Release Documentation and Guides : https://www.datatorrent.com/docs/
 
