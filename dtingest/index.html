@@ -57,20 +57,55 @@
 <li>
           
             <li>
+    <ul class="subnav">
+    <li><span>Demos</span></li>
+
+        
+            
     <li class="toctree-l1 ">
-        <a class="" href="../app_builder/">dtAssemble - Graphical Application Builder</a>
+        <a class="" href="../demo_videos/">Videos</a>
         
     </li>
+
+        
+    </ul>
 <li>
           
             <li>
+    <ul class="subnav">
+    <li><span>Writing Applications</span></li>
+
+        
+            
     <li class="toctree-l1 ">
-        <a class="" href="../visualize/">dtDashboard - Application Data Visualization</a>
+        <a class="" href="../demo_sales/">Sales Dimensions</a>
         
     </li>
+
+        
+    </ul>
 <li>
           
             <li>
+    <ul class="subnav">
+    <li><span>Platform</span></li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../dtassemble/">dtAssemble - Graphical Application Builder</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../dtdashboard/">dtDashboard - Application Data Visualization</a>
+        
+    </li>
+
+        
+            
     <li class="toctree-l1 current">
         <a class="current" href="./">dtIngest - Unified Batch and Streaming Ingestion</a>
         
@@ -88,6 +123,9 @@
             </ul>
         
     </li>
+
+        
+    </ul>
 <li>
           
             <li>
@@ -97,14 +135,14 @@
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../apex/">Apache Apex</a>
+        <a class="" href="../apex_core/">Apache Apex Core</a>
         
     </li>
 
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../malhar/">Apache Apex-Malhar</a>
+        <a class="" href="../apex_malhar/">Apache Apex Malhar</a>
         
     </li>
 
@@ -113,27 +151,13 @@
 <li>
           
             <li>
-    <li class="toctree-l1 ">
-        <a class="" href="../sandbox/">Sandbox</a>
-        
-    </li>
-<li>
-          
-            <li>
     <ul class="subnav">
-    <li><span>Demos</span></li>
+    <li><span>Sandbox</span></li>
 
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../sales_demo/">Sales - Transform, Analyze and Alert</a>
-        
-    </li>
-
-        
-            
-    <li class="toctree-l1 ">
-        <a class="" href="../video_demos/">Video Demos</a>
+        <a class="" href="../sandbox/">Sandbox Demos and Services</a>
         
     </li>
 
@@ -168,6 +192,10 @@
   <ul class="wy-breadcrumbs">
     <li><a href="..">Docs</a> &raquo;</li>
     
+      
+        
+          <li>Platform &raquo;</li>
+        
       
     
     <li>dtIngest - Unified Batch and Streaming Ingestion</li>
@@ -207,24 +235,24 @@
 <li>Navigate the the ‘Develop’ tab ‘Launch’ to launch a new ingestion application</li>
 <li>
 <p>dtIngest is designed to move data between any of the supported data sources &amp; destinations. Just pick &amp; configure the ones you need. Also, when moving data from file based sources, you can choose for the pipeline to run ‘one time’ or to continuously poll the input directories to look for files that match the filtering criteria</p>
-<p><img alt="" src="../images/ingestion/image000.png" /></p>
+<p><img alt="" src="../images/dtingest/image000.png" /></p>
 </li>
 <li>
 <p>When copying data to ‘file’ based destinations several useful options are available. These include being able to keep source directory structure, overwrite files on destination &amp; automatically creating a hourly directory structure to track when data was written at the output. </p>
-<p><img alt="" src="../images/ingestion/image001.png" /></p>
+<p><img alt="" src="../images/dtingest/image001.png" /></p>
 </li>
 <li>
 <p>Before saving the data into the destination location, it can be compressed as well as encrypted.</p>
-<p><img alt="" src="../images/ingestion/image002.png" /></p>
+<p><img alt="" src="../images/dtingest/image002.png" /></p>
 </li>
 <li>
 <p>When ingesting data into HDFS, small files can be combined into ‘large’ files to help work around the namenode namespace restrictions.  </p>
-<p><img alt="" src="../images/ingestion/image003.png" /></p>
+<p><img alt="" src="../images/dtingest/image003.png" /></p>
 </li>
 <li>
 <p>After configuring the ingestion application hit the ‘Launch’ button to launch the ingestion application. All the requisite connectors like Kafka, JMS, HDFS etc. will be automatically instantiated and the right operators for compression, encryption etc will be inserted into the application to generate the ‘DAG’.<br />
 The screenshot below shows sample of a DAG that is generated to read files from FTP and ingest them into HDFS</p>
-<p><img alt="" src="../images/ingestion/image004.png" /></p>
+<p><img alt="" src="../images/dtingest/image004.png" /></p>
 </li>
 <li>
 <p>Once the application is launched, you can navigate the the ‘Monitor’ tab and find your application instance in the list. Clicking on the application instance will give you complete visibility into the metrics of the application. </p>
@@ -240,10 +268,10 @@ The screenshot below shows sample of a DAG that is generated to read files from 
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../apex/" class="btn btn-neutral float-right" title="Apache Apex"/>Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../apex_core/" class="btn btn-neutral float-right" title="Apache Apex Core"/>Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../visualize/" class="btn btn-neutral" title="dtDashboard - Application Data Visualization"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../dtdashboard/" class="btn btn-neutral" title="dtDashboard - Application Data Visualization"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -269,10 +297,10 @@ The screenshot below shows sample of a DAG that is generated to read files from 
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../visualize/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../dtdashboard/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../apex/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../apex_core/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>

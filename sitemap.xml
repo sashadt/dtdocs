@@ -10,39 +10,9 @@
     
 
     
-    <url>
-     <loc>None/app_builder/</loc>
-     <lastmod>2015-09-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/visualize/</loc>
-     <lastmod>2015-09-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/ingestion/</loc>
-     <lastmod>2015-09-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
         
     <url>
-     <loc>None/apex/</loc>
-     <lastmod>2015-09-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/malhar/</loc>
+     <loc>None/demo_videos/</loc>
      <lastmod>2015-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -50,23 +20,57 @@
     
 
     
+        
+    <url>
+     <loc>None/demo_sales/</loc>
+     <lastmod>2015-09-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/dtassemble/</loc>
+     <lastmod>2015-09-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/dtdashboard/</loc>
+     <lastmod>2015-09-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/dtingest/</loc>
+     <lastmod>2015-09-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/apex_core/</loc>
+     <lastmod>2015-09-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/apex_malhar/</loc>
+     <lastmod>2015-09-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
     <url>
      <loc>None/sandbox/</loc>
-     <lastmod>2015-09-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-        
-    <url>
-     <loc>None/sales_demo/</loc>
-     <lastmod>2015-09-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/video_demos/</loc>
      <lastmod>2015-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
