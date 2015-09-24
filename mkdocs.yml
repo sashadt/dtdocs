@@ -2,14 +2,17 @@ site_name: DataTorrent Documentation
 theme: readthedocs
 pages:
 - DataTorrent RTS: index.md
-- dtAssemble - Graphical Application Builder: app_builder.md
-- dtDashboard - Application Data Visualization: visualize.md
-- dtIngest - Unified Batch and Streaming Ingestion: ingestion.md
-- Apache Apex:
-    - Apache Apex: apex.md
-    - Apache Apex-Malhar: malhar.md
-- Sandbox: sandbox.md
 - Demos: 
-    - Sales - Transform, Analyze and Alert : sales_demo.md
-    - Video Demos: video_demos.md
+    - Videos: demo_videos.md
+- Writing Applications:
+    - Sales Dimensions: demo_sales.md
+- Platform:
+    - dtAssemble - Graphical Application Builder: dtassemble.md
+    - dtDashboard - Application Data Visualization: dtdashboard.md
+    - dtIngest - Unified Batch and Streaming Ingestion: dtingest.md
+- Apache Apex:
+    - Apache Apex Core: apex_core.md
+    - Apache Apex Malhar: apex_malhar.md
+- Sandbox: 
+    - Sandbox Demos and Services: sandbox.md
 - Additinal Docs: additional_docs.md

@@ -72,12 +72,12 @@
 
   <rect x="47" y="88" height="38" width="662" rx="6" ry="6" style="fill: #0890d1"/>
   <text x="160" y="110" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
-    Malhar - Open Source Java Operator Library ( Apache 2.0 License )
+    Apache Apex Malhar - Open Source Java Operator Library ( Apache 2.0 License )
   </text>
 
   <rect x="47" y="132" height="74" width="662" rx="6" ry="6" style="fill: #0890d1"/>
   <text x="170" y="160" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
-    Apex - Open Source, Scalable, High-Performance, Fault-Tolerant
+    Apache Apex Core - Open Source, Scalable, High-Performance, Fault-Tolerant
   </text>
   <text x="190" y="180" style="fill: #ffffff; font-size: 12px; letter-spacing: 1.05;">
     In-Memory Processing Platform ( Apache 2.0 License )

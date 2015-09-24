@@ -1,4 +1,4 @@
-DataTorrent Sandbox
+DataTorrent RTS Sandbox
 ================================================================================
 
 The sandbox provides an interactive introduction to the DataTorrent real-time streaming platform.  For additional information about DataTorrent please visit https://www.datatorrent.com/
